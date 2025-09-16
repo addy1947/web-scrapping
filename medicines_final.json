@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dolo 650 Tablet",
+    "mrp": "₹34.27",
+    "discounted_price": "₹32.9",
+    "price": "₹32.9",
+    "quantity": "15 tablets",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ko6rsu9xwrdb7hrmmszr.jpg",
+    "manufacturer": "Leeford Healthcare Ltd",
+    "composition": "Paracetamol (650mg)",
+    "url": "https://www.1mg.com/drugs/dolo-650-tablet-74467",
+    "status": "Success"
+  },
+  {
+    "name": "Crocin Pain Relief Tablet",
+    "mrp": "₹87.48",
+    "discounted_price": "₹87.48",
+    "price": "₹87.48",
+    "quantity": "15 tablets",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/a0236bab61da465abf07160ac7eb7c02.jpg",
+    "manufacturer": "Leeford Healthcare Ltd",
+    "composition": "Caffeine (50mg) + Paracetamol (650mg)",
+    "url": "https://www.1mg.com/drugs/crocin-pain-relief-tablet-323789",
+    "status": "Success"
+  },
+  {
+    "name": "New Saridon Tablet | For Pain Relief | Provides Fast Headache Relief",
+    "mrp": "₹55",
+    "discounted_price": "₹55",
+    "price": "₹55",
+    "quantity": "10 tablets",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/9de799e60b6049e888478f4515f8a84f.jpg",
+    "manufacturer": "N/A",
+    "composition": "N/A",
+    "url": "https://www.1mg.com/otc/new-saridon-tablet-for-pain-relief-provides-fast-headache-relief-otc123063",
+    "status": "Success"
+  },
+  {
+    "name": "Crocin Advance 500mg Tablet",
+    "mrp": "₹20.16",
+    "discounted_price": "₹20.16",
+    "price": "₹20.16",
+    "quantity": "20 tablets",
+    "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/a9fab1c9b7b542e4a121083dbd1900df.jpg",
+    "manufacturer": "Cipla Ltd",
+    "composition": "Paracetamol (500mg)",
+    "url": "https://www.1mg.com/drugs/crocin-advance-500mg-tablet-600468",
+    "status": "Success"
+  }
+]
